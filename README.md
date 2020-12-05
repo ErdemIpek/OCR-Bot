@@ -22,3 +22,6 @@ $lang -----> Shows available languages.<br><br>
 # Add OCR-Bot to your server:
 
 ### [Click here](https://discord.com/api/oauth2/authorize?client_id=784460843206311938&permissions=522304&scope=bot)
+
+# OPGG Page below:
+[OPGG](https://top.gg/bot/784460843206311938)
