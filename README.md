@@ -24,4 +24,4 @@ $lang -----> Shows available languages.<br><br>
 Unfortunately i decided to stop hosting the bot, currently the bot is not working.
 
 # OPGG Page below:
-[OPGG](https://top.gg/bot/784460843206311938)
+OPGG page has been deleted.
